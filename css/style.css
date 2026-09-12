@@ -8,3 +8,8 @@ body{
   font-family: 'Poppins', sans-serif;
   color: black;
 }
+
+main{
+  margin-top: 50px;
+  display: block;
+}
